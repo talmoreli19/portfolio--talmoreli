@@ -63,37 +63,37 @@ const projects = [
         imageUrl: "/assets/images/drawingapp.png",
         title: "Drawing App",
         description: "Here's my drawing app built with Bootstrap, JavaScript, and CSS.",
-        githubLink: "https://github.com/talmoreli19/Drawingapp.git",
+        githubLink: "https://github.com/talmoreli19/drawingapp.git",
     },
     {
         imageUrl: "/assets/images/tictactoe.png",
         title: "Tic Tac Toe Game",
         description: "Here's my tic-tac-toe game built with CSS and JavaScript.",
-        githubLink: "https://github.com/talmoreli19/tic-tactoegame.git",
+        githubLink: "https://github.com/talmoreli19/tic-tac-toe.git",
     },
     {
         imageUrl: "/assets/images/notetaking.png",
         title: "Note-taking-app",
         description: "Here's my note-taking app built with Sass, CSS, and JavaScript.",
-        githubLink: "https://github.com/talmoreli19/Note-takinga-app.git",
+        githubLink: "https://github.com/talmoreli19/note-taking.git",
     },
     {
         imageUrl: "/assets/images/todolist.png",
         title: "To-do-list",
         description: "Here's my to-do-list app built with Bootstrap, JavaScript, and CSS.",
-        githubLink: "https://github.com/talmoreli19/todolist.git",
+        githubLink: "https://github.com/talmoreli19/Todo-list.git",
     },
     {
         imageUrl: "/assets/images/snakegame.png",
         title: "Snake-game",
         description: "Here's my snake game built with JavaScript and CSS.",
-        githubLink: "https://github.com/talmoreli19/snakegame.git",
+        githubLink: "https://github.com/talmoreli19/snake-game.git",
     },
     {
         imageUrl: "/assets/images/calculatorapp.png",
         title: "Calculator",
         description: "Here's my calculator app built with TypeScript and CSS.",
-        githubLink: "https://github.com/talmoreli19/Calculatorapp.git",
+        githubLink: "https://github.com/talmoreli19/calculatorproject.git",
     },
 ];
 
@@ -114,7 +114,6 @@ projects.forEach(project => {
     projectsContainer.appendChild(projectCard);
 });
 
-// JavaScript to add the "Download All Projects" button
 const downloadButtonContainer = document.getElementById("download-button-container");
 const downloadButton = document.createElement("a");
 downloadButton.href = "/assets/SixProjects.zip";
