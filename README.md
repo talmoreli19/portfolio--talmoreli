@@ -1,7 +1,7 @@
 ﻿
 name:talmoreli
 student in hackeru
-celephone numbeer: 0508562651
+celephone number: 0508562651
 email: talmoreli54@gmail.com
 
 portfolio website : 
