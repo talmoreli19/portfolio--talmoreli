@@ -1,5 +1,5 @@
 ﻿
-name:talmoreli
+name: talmoreli
 student in hackeru
 celephone number: 0508562651
 email: talmoreli54@gmail.com
